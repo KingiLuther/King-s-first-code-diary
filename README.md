@@ -1,2 +1,2 @@
 # King-s-first-code-diary
-from zero to ?
+//so let me try coding in github!
